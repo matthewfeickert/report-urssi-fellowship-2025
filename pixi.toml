@@ -1,0 +1,36 @@
+[workspace]
+authors = ["Matthew Feickert <matthew.feickert@cern.ch>"]
+channels = ["conda-forge"]
+name = "report-urssi-fellowship-2025"
+platforms = ["linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks.build]
+description = "Build report as static HTML website"
+cmd = "myst build --html"
+cwd = "report"
+
+[tasks.clean]
+description = "Remove exports, temp files and installed templates"
+cmd = "myst clean --yes"
+cwd = "report"
+
+[tasks.start]
+cmd = "myst start"
+cwd = "report"
+description = "Start a local server to preview the report"
+
+[dependencies]
+mystmd = ">=1.6.3,<2"
+
+[feature.analysis.dependencies]
+pandas = ">=2.3.3,<3"
+matplotlib = ">=3.10.7,<4"
+notebook = ">=7.4.7,<8"
+jupyterlab = ">=4.4.10,<5"
+
+[feature.analysis.tasks.lab]
+cmd = "jupyter lab"
+
+[environments]
+analysis = { features = ["analysis"], no-default-feature = true }
