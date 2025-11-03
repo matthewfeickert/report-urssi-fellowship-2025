@@ -29,7 +29,7 @@ description = "Start a local server to preview the report"
 depends-on = ["pdf", "serve"]
 
 [dependencies]
-mystmd = ">=1.6.3,<2"
+mystmd = ">=1.6.4,<2"
 typst = ">=0.14.0,<0.15"
 
 [feature.analysis.dependencies]
