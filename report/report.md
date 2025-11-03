@@ -14,7 +14,7 @@ downloads:
 
 As part of inaugural US Research Software Sustainability Institute (URSSI) Early-Career Fellow Matthew Feickert's fellowship research, he developed an open source course on creating reproducible software environments for scientific and AI/ML applications.
 The project "[Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/04/25/urssi-welcomes-first-early-career-fellows/)" focused on using the open source tool [Pixi](https://pixi.sh/) to create fully reproducible research software environments with specialized hardware accelerator support.
-In addition to performing research on creating robust reproducible hardware accelerated workflows with Pixi, Feickert organized and taught a pilot workshop at the University of Wisconsin&ndash;Madison, a tutorial at the 2025 SciPy conference, and a national level workshop at the University of Wisconsin&ndash;Madison.
+In addition to performing research on creating robust reproducible hardware accelerated workflows with Pixi, Feickert organized and taught a pilot workshop at the University of Wisconsin&ndash;Madison, a tutorial at the 2025 SciPy conference, and a national-level workshop at the University of Wisconsin&ndash;Madison.
 
 ## Summary of Work
 
@@ -34,6 +34,11 @@ As the main deliverable of the project was
 ## Contributions to open source projects
 
 * Addition of Pixi workflow templates to the University of Wisconsin&ndash;Madison's Center for High Throughput Computing[^1] [GPU Job Templates GitHub repository](https://github.com/CHTC/templates-GPUs).
+
+## Resulting future opportunities
+
+The Brookhaven National Laboratory [National Synchrotron Light Source II](https://www.bnl.gov/nsls2/) (NSLS-II) [Data Science and Systems Integration](https://www.bnl.gov/nsls2/datascience/) (DSSI) division sent staff to the August, 2025 national-level workshop.
+Following the workshop, the DSSI has invited Feickert to BNL in 2026 to give a guest workshop for NSLS-II scientists and staff, as they are looking to modernize their beamline software application deployments.
 
 ## Acknowledgements
 
