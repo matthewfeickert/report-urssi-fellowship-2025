@@ -1,3 +1,13 @@
+---
+exports:
+  - format: pdf
+    template: lapreprint-typst
+    output: exports/feickert-urssi-report-2025.pdf
+    id: feickert-urssi-report-2025
+downloads:
+  - id: feickert-urssi-report-2025
+    title: PDF export
+---
 # Matthew Feickert's 2025 URSSI Early-Career Fellowship Report
 
 As part of inaugural US Research Software Sustainability Institute (URSSI) Early-Career Fellow Matthew Feickert's fellowship research, he developed an open source course on creating reproducible software environments for scientific and AI/ML applications.

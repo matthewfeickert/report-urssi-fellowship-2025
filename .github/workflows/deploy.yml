@@ -39,6 +39,9 @@ jobs:
     - name: List installed packages
       run: pixi list
 
+    - name: Build the PDF export with Typst
+      run: pixi run pdf
+
     - name: Build the site
       run: pixi run build
 

@@ -10,6 +10,11 @@ description = "Build report as static HTML website"
 cmd = "myst build --html"
 cwd = "report"
 
+[tasks.pdf]
+description = "Build PDF export of report"
+cmd = "myst build --pdf"
+cwd = "report"
+
 [tasks.clean]
 description = "Remove exports, temp files and installed templates"
 cmd = "myst clean --yes"
@@ -22,6 +27,7 @@ description = "Start a local server to preview the report"
 
 [dependencies]
 mystmd = ">=1.6.3,<2"
+typst = ">=0.14.0,<0.15"
 
 [feature.analysis.dependencies]
 pandas = ">=2.3.3,<3"
