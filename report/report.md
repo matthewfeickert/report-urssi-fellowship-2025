@@ -62,6 +62,32 @@ TBD
 The Brookhaven National Laboratory [National Synchrotron Light Source II](https://www.bnl.gov/nsls2/) (NSLS-II) [Data Science and Systems Integration](https://www.bnl.gov/nsls2/datascience/) (DSSI) division sent staff to the August, 2025 national-level workshop.
 Following the workshop, the DSSI has invited Feickert to BNL in 2026 to give a guest workshop for NSLS-II scientists and staff, as they are looking to modernize their beamline software application deployments.
 
+## Project Review
+
+### Expected Impact
+
+The project proposal's expected impact on the Scientific Software Community was focused on the long-term impact of the training and education imparted at the workshop to the research communities of the workshop participants.
+From the post-workshop survey and from the 3 month long-term follow-up survey there is evidence that Pixi as a technology is easy to learn and is beneficial enough for researchers that it has changed their normal scientific software workflows habits, becoming a common tool in their regular work.
+The workshop and material had a particular focus on CUDA accelerated workflows for applications on GPUs.
+While this was a popular topic in the workshop and was noted by participants as an area of interest for participating, few participants had existing software projects that were actively making use of CUDA or GPUs for scientific tasks where hardware acceleration would be beneficial, e.g. machine learning.
+While the reasons for this are not well understood, a hypothesis is that while the hardware and hardware acceleration technologies are important and useful, to gain access to them and use them effectively at traditional academic institutions requires multiple steps and levels of permissions, which can act as a deterrent to rapid experimentation.
+While the workshop materials provide instruction and examples at each step of this procedure, and use of Pixi and CUDA conda packages significantly lowers the  complexity of the software management, the computing platforms used may have a large impact on adoption of demonstrated workflows in normal research.
+As shown in @computing_comparison, deploying fully reproducible software environments to a computing facility for use generally requires researchers to use at least one additional computing technology beyond Pixi, with each additional technology potentially requiring multiple supporting files or actions to use.
+Improvements in the levels of interfacing between computing systems and researchers may have a positive effect on the widespread adoption and impact of fully reproducible hardware accelerated software environments.
+
+:::{table} Comparison of common computing facility management solutions for scientific research and the number of distinct technologies required to use fully reproducible software environments with them. The use of `*` indicates a potential or optional dependency. Note that HTCondor systems with shared file systems are uncommon.
+:label: computing_comparison
+:align: center
+
+| Computing resource management system | Shared file system |  Technologies required |
+| --- | --- | --- |
+| High-throughput computing  | No  | Pixi, Linux containers, HTCondor       |
+| High-throughput computing  | Yes | Pixi, HTCondor                         |
+| High-performance computing | Yes | Pixi, Slurm                            |
+| Commercial cloud services  | Yes | Pixi, Slurm*, cloud specific software* |
+
+:::
+
 ## Acknowledgements
 
 This work was supported by the US Research Software Sustainability Institute (URSSI) via grant G-2022-19347 from the Sloan Foundation.
