@@ -20,13 +20,16 @@ description = "Remove exports, temp files and installed templates"
 cmd = "myst clean --yes"
 cwd = "report"
 
-[tasks.start]
+[tasks.serve]
 cmd = "myst start"
 cwd = "report"
 description = "Start a local server to preview the report"
 
+[tasks.start]
+depends-on = ["pdf", "serve"]
+
 [dependencies]
-mystmd = ">=1.6.3,<2"
+mystmd = ">=1.6.4,<2"
 typst = ">=0.14.0,<0.15"
 
 [feature.analysis.dependencies]
