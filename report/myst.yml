@@ -20,6 +20,7 @@ project:
     CUDA: Compute Unified Device Architecture
     HPC: High-performance computing
     HTC: High-throughput computing
+    HTCondor: null
   github: https://github.com/matthewfeickert/report-urssi-fellowship-2025
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
