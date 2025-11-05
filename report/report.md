@@ -53,7 +53,8 @@ TBD
 ### Research Products and Publications
 
 * Matthew Feickert, [Reproducible Machine Learning Workflows for Scientists](https://github.com/carpentries-incubator/reproducible-ml-workflows), 2025.
-* Matthew Feickert, Ruben Arts, John Kirkham, _[Reproducible Machine Learning Workflows for Scientists with Pixi](https://inspirehep.net/literature/3071594)_, Proceedings of 24th International SciPy Conference — SciPy 2025, July, 2025. DOI: [10.25080/nwuf8465](https://doi.org/10.25080/nwuf8465)
+<!-- https://github.com/orgs/jupyter-book/discussions/2399#discussioncomment-14881997 -->
+* Matthew Feickert, Ruben Arts, John Kirkham, _[Reproducible Machine Learning Workflows for Scientists with Pixi](https://inspirehep.net/literature/3071594)_, Proceedings of 24th International SciPy Conference — SciPy 2025, July, 2025. DOI: [10.25080/​nwuf8465](https://doi.org/10.25080/nwuf8465)
 
 ### Contributions to Open Source Projects
 
