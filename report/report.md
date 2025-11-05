@@ -88,7 +88,25 @@ Improvements in the levels of interfacing between computing systems and research
 
 :::
 
-### Potential impact of additional funding
+### Evaluation Metrics and Deliverables
+
+The project evaluation metrics for success are reported in @evaluation_metrics.
+The total number of participants across all workshops is reported from the in-person attendance of the June, 2025 pilot workshop (29 participants), the SciPy 2025 tutorial (56 participants), and the August, 2025 national-level workshop (43 participants).
+DEBUG: Is it 43 or 49 participants?
+
+:::{table} Summary of project success evaluation metrics as defined in Fellowship proposal.
+:label: evaluation_metrics
+:align: center
+
+| Evaluation metric | Target | Delivered | Metric achieved |
+| --- | --- | --- | --- |
+| Total number of participants across all workshops | 50 participants | 128 participants | Yes |
+| Percentage of participants who were able to successfully reproduce their own scientific and AI/ML research workflows using the information they learned by the end of the national-level workshop | 90% | 95% | Yes |
+| Acceptance of the course into The Carpentries Incubator and The Carpentries Lab curriculum | The Carpentries Lab | The Carpentries Incubator | No |
+
+:::
+
+### Potential Impact of Additional Funding
 
 In the event in which additional research funding would have been available to extend the Fellowship project, the project would have supported additional more targeted workshops.
 The registration for the August, 2025 national-level workshop reached its room capacity in under one week of registration being opened, and there were requests for additional registration slots to be opened indicating interest and demand for the material.
