@@ -13,15 +13,12 @@ downloads:
 ---
 # Matthew Feickert's 2025 URSSI Early-Career Fellowship Report
 
-## Overview
+## Project Overview
 
-As part of inaugural US Research Software Sustainability Institute (URSSI) Early-Career Fellow Matthew Feickert's fellowship research, he developed an open source course on creating reproducible software environments for scientific and artificial intelligence and machine learning (AI/ML) applications.
-The project "[Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/04/25/urssi-welcomes-first-early-career-fellows/)" focused on using the open source tool [Pixi](https://pixi.sh/) to create fully reproducible research software environments with specialized hardware accelerator support.
+As part of inaugural US Research Software Sustainability Institute (URSSI) Early-Career Fellow Matthew Feickert's fellowship research, Feickert developed open source educational material for a workshop series on creating reproducible software environments for scientific and artificial intelligence and machine learning (AI/ML) applications.
+The project, "[Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/04/25/urssi-welcomes-first-early-career-fellows/)", focused on using the open source tool [Pixi](https://pixi.sh/) to create fully reproducible research software environments with specialized hardware accelerator support for the CUDA parallel computing platform.
+Use of Pixi's technologies allowed for digest-level reproduction of "locked" software environments based on conda and Python packages that were solved for multiple computing platforms and portable to different host machines.
 In addition to performing research on creating robust reproducible hardware accelerated workflows with Pixi, Feickert organized and taught a pilot workshop at the University of Wisconsin&ndash;Madison, a tutorial at the 2025 SciPy conference, and a national-level workshop at the University of Wisconsin&ndash;Madison.
-
-## Summary of Project
-
-TBD
 
 ## Project Outcomes
 
@@ -37,8 +34,8 @@ This would have historically been considered too technically difficult to achiev
 :::
 
 In all workshops, most participants and little to no experience with Pixi, and limited or no experience constructing software environments containing CUDA accelerated software packages.
-As a result, the workshop participants had their effective first introduction to Pixi on the first day of the workshop.
-Workshop participants were able to successfully deploy CUDA accelerated PyTorch machine learning workflows to remote GPUs on high-throughput computing (HPC) facilities by the last day of the workshop, using software environments that they had all individually constructed.
+As a result, the workshop participants had their effective introduction to Pixi on the first day of the workshop.
+Workshop participants were able to successfully deploy CUDA accelerated PyTorch machine learning workflows to remote GPUs on high-throughput computing (HTC) facilities by the last day of the workshop, using software environments that they had all individually constructed.
 This represents a rapid technological adoption and deployment process that would have historically been considered too technically difficult to achieve for beginners.
 
 <!--
@@ -64,7 +61,7 @@ TBD
 
 ### Future Opportunities and Collaborations
 
-The Brookhaven National Laboratory [National Synchrotron Light Source II](https://www.bnl.gov/nsls2/) (NSLS-II) [Data Science and Systems Integration](https://www.bnl.gov/nsls2/datascience/) (DSSI) division sent staff to the August, 2025 national-level workshop.
+The Brookhaven National Laboratory (BNL) [National Synchrotron Light Source II](https://www.bnl.gov/nsls2/) (NSLS-II) [Data Science and Systems Integration](https://www.bnl.gov/nsls2/datascience/) (DSSI) division sent staff to the August, 2025 national-level workshop.
 Following the workshop, the DSSI has invited Feickert to BNL in 2026 to give a guest workshop for NSLS-II scientists and staff, as they are looking to modernize their beamline software application deployments.
 
 ## Project Review
