@@ -99,7 +99,7 @@ The project evaluation metrics for success are reported in @evaluation_metrics.
 The total number of participants across all workshops is reported from the in-person attendance of the June, 2025 pilot workshop (29 participants), the SciPy 2025 tutorial (56 participants), and the August, 2025 national-level workshop (44 participants).
 Additionally, as not all national-level workshop participants brought their own research projects, the reported percentage (42/44 participants) includes those that executed examples workflows.
 Under these conditions, all participants in the national-level workshop succeeded in executing CUDA accelerated ML workflows except for two, who had been delayed by technical difficulties earlier in the workshop.
-During the duration of the Fellowship project, The Carpentries Lab was reviewing lesson submissions [by invitation only](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab).
+During the duration of the Fellowship project, [The Carpentries Lab](https://carpentries-lab.org/) was reviewing lesson submissions [by invitation only](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab).
 This, along with additional criteria discussed in @section_additional_funding, made it not possible to submit to The Carpentries Lab review process.
 The workshop materials will instead be submitted to the [Journal of Open Source Education](https://jose.theoj.org/) (JOSE).
 
@@ -129,7 +129,7 @@ Additional funding would have allowed for follow up workshops and additional lod
 
 In addition, feedback in the post-workshop survey and discussion with The Carpentries Incubator community, indicates that the scope of technologies covered in the existing workshop material may be too much for some researchers to be able to fully understand and apply in a workshop that lasts less than one week.
 It has been recommended by The Carpentries Incubator that the current material be split into three successive "lessons"[^2] focusing on: Pixi, deployment technologies with Linux containers, and machine learning workflows at HTC and HPC facilities.
-Additional funding support would allow for the redesign of the current material into individual lessons that could be more easily taught by additional instructors, which is [a requirement for peer review](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#essential) of lesson submissions to [The Carpentries Lab](https://carpentries-lab.org/).
+Additional funding support would allow for the redesign of the current material into individual lessons that could be more easily taught by additional instructors, which is [a requirement for peer review](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#essential) of lesson submissions to The Carpentries Lab.
 This would also allow for multiple, more targeted workshops to be taught that might attract different researchers, or for more technical workshops that use the succession of lesson development to require higher levels of prerequisite skills.
 
 ## Acknowledgements
