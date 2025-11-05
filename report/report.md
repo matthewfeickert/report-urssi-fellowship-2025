@@ -88,8 +88,21 @@ Improvements in the levels of interfacing between computing systems and research
 
 :::
 
+### Potential impact of additional funding
+
+In the event in which additional research funding would have been available to extend the Fellowship project, the project would have supported additional more targeted workshops.
+The registration for the August, 2025 national-level workshop reached its room capacity in under one week of registration being opened, and there were requests for additional registration slots to be opened indicating interest and demand for the material.
+There was also a limited number of lodging stipend awards that were available for participants to apply for to offset the costs associated with travel to the workshop location in Madison, Wisconsin.
+Additional funding would have allowed for follow up workshops and additional lodging stipend awards to make the in-person workshop training accessible to more scientific communities.
+
+In addition, feedback in the post-workshop survey and discussion with The Carpentries Incubator community leads, indicates that the scope of technologies covered in the existing workshop material may be too much for researchers to be able to fully understand in a workshop that lasts less than one week.
+It has been recommended by The Carpentries Incubator that the current material be split into three successive "lessons"[^2] focusing on: Pixi, deployment technologies with Linux containers, and machine learning workflows at HTC and HPC facilities.
+Additional funding support would allow for the redesign of the current material into individual lessons that could be more easily taught by additional instructors, which is [required for peer review](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#essential) and acceptance to [The Carpentries Lab](https://carpentries-lab.org/).
+This would also allow for multiple, more targeted workshops to be taught that might attract different researchers, or for more technical workshops that use the succession of lesson development to require higher levels of prerequisite skills.
+
 ## Acknowledgements
 
 This work was supported by the US Research Software Sustainability Institute (URSSI) via grant G-2022-19347 from the Sloan Foundation.
 
 [^1]: The development home of HTCondor.
+[^2]: The Carpentries Incubator lessons map roughly to individual workshops.
