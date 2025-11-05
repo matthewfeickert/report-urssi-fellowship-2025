@@ -41,9 +41,11 @@ As a result, the workshop participants had their effective first introduction to
 Workshop participants were able to successfully deploy CUDA accelerated PyTorch machine learning workflows to remote GPUs on high-throughput computing (HPC) facilities by the last day of the workshop, using software environments that they had all individually constructed.
 This represents a rapid technological adoption and deployment process that would have historically been considered too technically difficult to achieve for beginners.
 
+<!--
 ### Workshop Survey Analysis
 
 TBD
+-->
 
 ### Workshops and Events
 
