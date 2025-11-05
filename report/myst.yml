@@ -6,6 +6,7 @@ project:
   description: |
     Report on the outcomes of Matthew Feickert's 2025 URSSI Fellowship.
   keywords: ["URSSI", "Scientific Software Sustainability"]
+  date: 2025-11-04
   authors:
     - name: "Matthew Feickert"
       id: matthew-feickert
