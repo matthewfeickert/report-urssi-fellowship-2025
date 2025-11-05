@@ -113,6 +113,10 @@ The workshop materials will instead be submitted to the [Journal of Open Source 
 
 :::
 
+Of the twelve milestone and deliverables established in the Fellowship proposal, all were met or delivered, with the exception of:
+* The deliverable of a second pilot workshop at University of Wisconsin&ndash;Madison based on development time constraints.
+* The deliverable of submission of the workshop material for peer review to The Carpentries Lab given the previously mentioned restrictions.
+
 (section_additional_funding)=
 ### Potential Impact of Additional Funding
 
