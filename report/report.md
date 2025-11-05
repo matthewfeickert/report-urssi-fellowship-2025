@@ -16,7 +16,7 @@ downloads:
 ## Project Overview
 
 As part of inaugural US Research Software Sustainability Institute (URSSI) Early-Career Fellow Matthew Feickert's fellowship research, Feickert developed open source educational material for a workshop series on creating reproducible software environments for scientific and artificial intelligence and machine learning (AI/ML) applications.
-The project, "[Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/04/25/urssi-welcomes-first-early-career-fellows/)", focused on using the open source tool [Pixi](https://pixi.sh/) to create fully reproducible research software environments with specialized hardware accelerator support for the CUDA parallel computing platform.
+The project, "[Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/04/25/urssi-welcomes-first-early-career-fellows/)", focused on using the open source tool [Pixi](https://pixi.sh/) to create fully reproducible research software environments with specialized hardware accelerator support for the NVIDIA CUDA parallel computing platform.
 Use of Pixi's technologies allowed for digest-level reproduction of "locked" software environments based on conda and Python packages that were solved for multiple computing platforms and portable to different host machines.
 In addition to performing research on creating robust reproducible hardware accelerated workflows with Pixi, Feickert organized and taught a pilot workshop at the University of Wisconsin&ndash;Madison, a tutorial at the 2025 SciPy conference, and a national-level workshop at the University of Wisconsin&ndash;Madison.
 
