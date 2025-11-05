@@ -30,7 +30,7 @@ The educational material was also scoped to be contributed as a lesson module to
 The workshop materials were proposed to [The Carpentries Incubator as a contribution](https://github.com/carpentries-incubator/proposals/issues/222) at the project onset, and all materials were developed under the `carpentries-incubator` GitHub organization at https://github.com/carpentries-incubator/reproducible-ml-workflows.
 The produced material was piloted at an initial workshop for University of Wisconsin&ndash;Madison students and staff in June, 2025.
 Feedback received on the pilot workshop's most critical points was incorporated into a condensed four hour tutorial taught at the SciPy 2025 conference with the lead developer of Pixi, Ruben Arts, and NVIDIA principal engineer, John Kirkham, who lead the technical work for the distribution of the CUDA software stack as conda packages.
-Both of these events informed the content for the national-level workshop in August, 2025, with 43 participants from 11 universities, national laboratories, organizations, and companies across the United States.
+Both of these events informed the content for the national-level workshop in August, 2025, with 44 participants from 11 universities, national laboratories, organizations, and companies across the United States.
 
 :::{pull-quote}
 This would have historically been considered too technically difficult to achieve for beginners.
@@ -94,13 +94,12 @@ Improvements in the levels of interfacing between computing systems and research
 ### Evaluation Metrics and Deliverables
 
 The project evaluation metrics for success are reported in @evaluation_metrics.
-The total number of participants across all workshops is reported from the in-person attendance of the June, 2025 pilot workshop (29 participants), the SciPy 2025 tutorial (56 participants), and the August, 2025 national-level workshop (43 participants).
-Additionally, as not all national-level workshop participants brought their own research projects, the reported percentage (41/43 participants) includes those that executed examples workflows.
+The total number of participants across all workshops is reported from the in-person attendance of the June, 2025 pilot workshop (29 participants), the SciPy 2025 tutorial (56 participants), and the August, 2025 national-level workshop (44 participants).
+Additionally, as not all national-level workshop participants brought their own research projects, the reported percentage (42/44 participants) includes those that executed examples workflows.
 Under these conditions, all participants in the national-level workshop succeeded in executing CUDA accelerated ML workflows except for two, who had been delayed by technical difficulties earlier in the workshop.
 During the duration of the Fellowship project, The Carpentries Lab was reviewing lesson submissions [by invitation only](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab).
 This, along with additional criteria discussed in @section_additional_funding, made it not possible to submit to The Carpentries Lab review process.
 The workshop materials will instead be submitted to the [Journal of Open Source Education](https://jose.theoj.org/) (JOSE).
-**DEBUG: Is it 43 or 49 participants?**
 
 :::{table} Summary of project success evaluation metrics as defined in the Fellowship proposal.
 :label: evaluation_metrics
@@ -108,7 +107,7 @@ The workshop materials will instead be submitted to the [Journal of Open Source 
 
 | Evaluation metric | Target | Delivered | Metric achieved |
 | --- | --- | --- | --- |
-| Total number of participants across all workshops | 50 participants | 128 participants | Yes |
+| Total number of participants across all workshops | 50 participants | 129 participants | Yes |
 | Percentage of participants who were able to successfully reproduce their own scientific and AI/ML research workflows using the information they learned by the end of the national-level workshop | 90% | ~95% | Yes |
 | Acceptance of the workshop educational materials into The Carpentries Incubator and The Carpentries Lab curriculum | The Carpentries Lab | The Carpentries Incubator | No |
 
