@@ -2,6 +2,8 @@
 numbering:
   heading_1: true
   heading_2: true
+bibliography:
+  - references.bib
 exports:
   - format: pdf
     template: lapreprint-typst
@@ -133,6 +135,7 @@ This would also allow for multiple, more targeted workshops to be taught that mi
 ## Acknowledgements
 
 This work was supported by the US Research Software Sustainability Institute (URSSI) via grant G-2022-19347 from the Sloan Foundation.
+This work benefitted from resources and services provided by the University of Wisconsin&ndash;Madison [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) [@CHTC], as well as services provided by the [OSG Consortium](https://osg-htc.org/) [@osg07; @osg09; @OSPool; @OSDF], which is supported by the National Science Foundation awards #[2030508](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2030508) and #[2323298](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2323298).
 
 [^1]: The development home of HTCondor.
 [^2]: The Carpentries Incubator lessons map roughly to individual workshops.
