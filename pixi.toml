@@ -29,14 +29,14 @@ description = "Start a local server to preview the report"
 depends-on = ["pdf", "serve"]
 
 [dependencies]
-mystmd = ">=1.6.4,<2"
-typst = ">=0.14.0,<0.15"
+mystmd = ">=1.7.0,<2"
+typst = ">=0.14.1,<0.15"
 
 [feature.analysis.dependencies]
 pandas = ">=2.3.3,<3"
-matplotlib = ">=3.10.7,<4"
-notebook = ">=7.4.7,<8"
-jupyterlab = ">=4.4.10,<5"
+matplotlib = ">=3.10.8,<4"
+notebook = ">=7.5.0,<8"
+jupyterlab = ">=4.5.0,<5"
 
 [feature.analysis.tasks.lab]
 cmd = "jupyter lab"
