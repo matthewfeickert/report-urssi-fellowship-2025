@@ -62,6 +62,12 @@ TBD
 
 * Addition of Pixi workflow templates to the University of Wisconsin&ndash;Madison's Center for High Throughput Computing[^1] [GPU Job Templates GitHub repository](https://github.com/CHTC/templates-GPUs).
 
+### Blog Posts
+
+* [Feickert Awarded Early-Career Fellowship](https://dsi.wisc.edu/2025/04/30/feickert-awarded-early-career-fellowship-for-advancing-research-software-development-practices/), University of Wisconsin&ndash;Madison Data Science Institute, April 30, 2025.
+* [Winter 2025 URSSI Fellowship Report: Reproducible Machine Learning Workflows for Scientists](https://urssi.us/blog/2025/11/17/winter-2025-urssi-fellowship-report-reproducible-machine-learning-workflows-for-scientists/), URSSI, November 17, 2025.
+* [Machine Learning Software Workshop Brings Scientists From Across the US to Campus](https://dsi.wisc.edu/2025/12/10/machine-learning-software-workshop-brings-scientists-from-across-the-us-to-uw-madison/), University of Wisconsin&ndash;Madison Data Science Institute, December 10, 2025.
+
 ### Future Opportunities and Collaborations
 
 The Brookhaven National Laboratory (BNL) [National Synchrotron Light Source II](https://www.bnl.gov/nsls2/) (NSLS-II) [Data Science and Systems Integration](https://www.bnl.gov/nsls2/datascience/) (DSSI) division sent staff to the August, 2025 national-level workshop.
