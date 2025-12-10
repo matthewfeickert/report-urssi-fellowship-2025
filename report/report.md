@@ -28,7 +28,7 @@ The main deliverable of the project was to create permissively licensed open sou
 The educational material was also scoped to be contributed as a lesson module to [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals).
 The workshop materials were proposed to [The Carpentries Incubator as a contribution](https://github.com/carpentries-incubator/proposals/issues/222) at the project onset, and all materials were developed under the `carpentries-incubator` GitHub organization at https://github.com/carpentries-incubator/reproducible-ml-workflows.
 The produced material was piloted at an initial workshop for University of Wisconsin&ndash;Madison students and staff in June, 2025.
-Feedback received on the pilot workshop's most critical points was incorporated into a condensed four hour tutorial taught at the SciPy 2025 conference with the lead developer of Pixi, Ruben Arts, and NVIDIA principal engineer, John Kirkham, who lead the technical work for the distribution of the CUDA software stack as conda packages.
+Feedback received on the pilot workshop's most critical points was incorporated into a condensed four-hour tutorial taught at the SciPy 2025 conference with the lead developer of Pixi, Ruben Arts, and NVIDIA principal engineer, John Kirkham, who led the technical work for the distribution of the CUDA software stack as conda packages.
 Both of these events informed the content for the national-level workshop in August, 2025, with 44 participants from 11 universities, national laboratories, organizations, and companies across the United States.
 
 :::{pull-quote}
@@ -82,7 +82,7 @@ From the post-workshop survey and from the 3 month long-term follow-up survey th
 The workshop and material had a particular focus on CUDA accelerated workflows for applications on GPUs.
 While this was a popular topic in the workshop and was noted by participants as an area of interest for participating, few participants had existing software projects that were actively making use of CUDA or GPUs for scientific tasks where hardware acceleration would be beneficial, e.g. machine learning.
 While the reasons for this are not well understood, a hypothesis is that while the hardware and hardware acceleration technologies are important and useful, to gain access to them and use them effectively at traditional academic institutions requires multiple steps and levels of permissions, which can act as a deterrent to rapid experimentation.
-While the workshop materials provide instruction and examples at each step of this procedure, and use of Pixi and CUDA conda packages significantly lowers the  complexity of the software management, the computing platforms used may have a large impact on adoption of demonstrated workflows in normal research.
+While the workshop materials provide instruction and examples at each step of this procedure, and use of Pixi and CUDA conda packages significantly lowers the complexity of the software management, the computing platforms used may have a large impact on adoption of demonstrated workflows in normal research.
 As shown in @computing_comparison, deploying fully reproducible software environments to a computing facility for use generally requires researchers to use at least one additional computing technology beyond Pixi, with each additional technology potentially requiring multiple supporting files or actions to use.
 Improvements in the levels of interfacing between computing systems and researchers may have a positive effect on the widespread adoption and impact of fully reproducible hardware accelerated software environments.
 
@@ -103,7 +103,7 @@ Improvements in the levels of interfacing between computing systems and research
 
 The project evaluation metrics for success are reported in @evaluation_metrics.
 The total number of participants across all workshops is reported from the in-person attendance of the June, 2025 pilot workshop (29 participants), the SciPy 2025 tutorial (56 participants), and the August, 2025 national-level workshop (44 participants).
-Additionally, as not all national-level workshop participants brought their own research projects, the reported percentage (42/44 participants) includes those that executed examples workflows.
+Additionally, as not all national-level workshop participants brought their own research projects, the reported percentage (42/44 participants) includes those that executed example workflows.
 Under these conditions, all participants in the national-level workshop succeeded in executing CUDA accelerated ML workflows except for two, who had been delayed by technical difficulties earlier in the workshop.
 During the duration of the Fellowship project, [The Carpentries Lab](https://carpentries-lab.org/) was reviewing lesson submissions [by invitation only](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#what-is-the-process-for-submitting-a-lesson-to-the-carpentries-lab).
 This, along with additional criteria discussed in @section_additional_funding, made it not possible to submit to The Carpentries Lab review process.
@@ -128,12 +128,12 @@ Of the twelve milestone and deliverables established in the Fellowship proposal,
 (section_additional_funding)=
 ### Potential Impact of Additional Funding
 
-In the event in which additional research funding would have been available to extend the Fellowship project, the project would have supported additional more targeted workshops.
+In the event that additional research funding would have been available to extend the Fellowship project, the project would have supported additional more targeted workshops.
 The registration for the August, 2025 national-level workshop reached its room capacity in under one week of registration being opened, and there were requests for additional registration slots to be opened indicating interest and demand for the material.
 There was also a limited number of lodging stipend awards that were available for participants to apply for to offset the costs associated with travel to the workshop location in Madison, Wisconsin.
-Additional funding would have allowed for follow up workshops and additional lodging stipend awards to make the in-person workshop training accessible to more scientific communities.
+Additional funding would have allowed for follow-up workshops and additional lodging stipend awards to make the in-person workshop training accessible to more scientific communities.
 
-In addition, feedback in the post-workshop survey and discussion with The Carpentries Incubator community, indicates that the scope of technologies covered in the existing workshop material may be too much for some researchers to be able to fully understand and apply in a workshop that lasts less than one week.
+In addition, feedback in the post-workshop survey and discussion with The Carpentries Incubator community indicates that the scope of technologies covered in the existing workshop material may be too much for some researchers to be able to fully understand and apply in a workshop that lasts less than one week.
 It has been recommended by The Carpentries Incubator that the current material be split into three successive "lessons"[^2] focusing on: Pixi, deployment technologies with Linux containers, and machine learning workflows at HTC and HPC facilities.
 Additional funding support would allow for the redesign of the current material into individual lessons that could be more easily taught by additional instructors, which is [a requirement for peer review](https://github.com/carpentries-lab/reviews/blob/80deafff58555e8eae2944f7ee0506d7d737b48d/README.md#essential) of lesson submissions to The Carpentries Lab.
 This would also allow for multiple, more targeted workshops to be taught that might attract different researchers, or for more technical workshops that use the succession of lesson development to require higher levels of prerequisite skills.
